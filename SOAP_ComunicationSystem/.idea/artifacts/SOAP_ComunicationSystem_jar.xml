@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SOAP_ComunicationSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SOAP_ComunicationSystem_jar</output-path>
+    <root id="archive" name="SOAP_ComunicationSystem.jar">
+      <element id="module-output" name="SOAP_ComunicationSystem" />
+    </root>
+  </artifact>
+</component>
